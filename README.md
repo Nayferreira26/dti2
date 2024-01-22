@@ -8,11 +8,7 @@ Copie o código fornecido e salve-o em um arquivo com extensão .py.
 
 Abra um terminal na pasta onde o arquivo .py foi salvo.
 
-Execute o seguinte comando no terminal:
-
-bash
-Copy code
-python nomedoarquivo.py
+Execute o seguinte comando no terminal: "python nomedoarquivo.py"
 Substitua "nomedoarquivo.py" pelo nome real do arquivo que você salvou.
 
 O sistema imprimirá o melhor petshop e o preço total dos banhos com base na entrada fornecida no código.
